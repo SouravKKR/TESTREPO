@@ -2,5 +2,6 @@
 #include "header.h"
 int main()
 {
-    std::cout<<testfunction();
+    std::cout<<10<<"\n";
+    getchar();
 }

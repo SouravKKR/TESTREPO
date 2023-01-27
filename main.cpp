@@ -1,7 +1,8 @@
 #include<iostream>
-#include "header.h"
+#include"includes/header.h"
+#include"includes/header2.h"
 int main()
 {
-    std::cout<<testfunction()<<"\n";
-    return 0 ;
+    std::cout<<add(2,3)<<"\n";
+    getchar();
 }

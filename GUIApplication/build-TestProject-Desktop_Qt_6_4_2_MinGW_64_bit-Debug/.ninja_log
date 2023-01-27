@@ -1,0 +1,41 @@
+# ninja log v5
+7	39	0	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	14375e6d95067034
+1	814	6965033816968750	TestProject_autogen/timestamp	cbd6aa14c7ea197b
+1	814	6965033816968750	TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+1	814	6965033816968750	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/timestamp	cbd6aa14c7ea197b
+1	814	6965033816968750	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+815	2671	6965033837338355	CMakeFiles/TestProject.dir/TestProject_autogen/mocs_compilation.cpp.obj	4aec6ef9a9664bfa
+820	2722	6965033837838475	CMakeFiles/TestProject.dir/main.cpp.obj	bc8c355180d0818d
+818	2733	6965033837958517	CMakeFiles/TestProject.dir/mainwindow.cpp.obj	e4836a10444d16b6
+2733	2915	6965033839747346	TestProject.exe	54f3340717e9a541
+7	36	0	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	14375e6d95067034
+17	314	6965041056120920	TestProject_autogen/timestamp	cbd6aa14c7ea197b
+17	314	6965041056120920	TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+17	314	6965041056120920	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/timestamp	cbd6aa14c7ea197b
+17	314	6965041056120920	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+328	2141	6965041074386733	CMakeFiles/TestProject.dir/mainwindow.cpp.obj	e4836a10444d16b6
+2141	2324	6965041076187134	TestProject.exe	54f3340717e9a541
+7	37	0	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	14375e6d95067034
+15	289	6965041643880823	TestProject_autogen/timestamp	cbd6aa14c7ea197b
+15	289	6965041643880823	TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+15	289	6965041643880823	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/timestamp	cbd6aa14c7ea197b
+15	289	6965041643880823	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+303	2147	6965041662452485	CMakeFiles/TestProject.dir/mainwindow.cpp.obj	e4836a10444d16b6
+2148	2323	6965041664187427	TestProject.exe	54f3340717e9a541
+7	36	0	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	14375e6d95067034
+13	292	6965042351945826	TestProject_autogen/timestamp	cbd6aa14c7ea197b
+13	292	6965042351945826	TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+13	292	6965042351945826	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/timestamp	cbd6aa14c7ea197b
+13	292	6965042351945826	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+306	2161	6965042370643130	CMakeFiles/TestProject.dir/mainwindow.cpp.obj	e4836a10444d16b6
+2162	2339	6965042372383523	TestProject.exe	54f3340717e9a541
+6	31	0	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	14375e6d95067034
+7	41	0	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	14375e6d95067034
+10	783	6965044446404384	TestProject_autogen/timestamp	cbd6aa14c7ea197b
+10	783	6965044446404384	TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+10	783	6965044446404384	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/timestamp	cbd6aa14c7ea197b
+10	783	6965044446404384	C:/Users/vaibh/OneDrive/Desktop/All projects/Hackathon/TESTREPO/GUIApplication/build-TestProject-Desktop_Qt_6_4_2_MinGW_64_bit-Debug/TestProject_autogen/mocs_compilation.cpp	cbd6aa14c7ea197b
+783	2796	6965044468385882	CMakeFiles/TestProject.dir/TestProject_autogen/mocs_compilation.cpp.obj	4aec6ef9a9664bfa
+791	2845	6965044468876027	CMakeFiles/TestProject.dir/main.cpp.obj	bc8c355180d0818d
+787	2891	6965044469326125	CMakeFiles/TestProject.dir/mainwindow.cpp.obj	e4836a10444d16b6
+2891	3071	6965044471096253	TestProject.exe	54f3340717e9a541
